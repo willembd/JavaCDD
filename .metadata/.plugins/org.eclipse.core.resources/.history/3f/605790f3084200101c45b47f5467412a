@@ -1,0 +1,10 @@
+package aula01;
+
+public class OperadorExemplo {
+	public static void main(String[] args) {
+		int idade = 18;
+		System.out.println(idade++);
+		System.out.println(idade);
+		System.out.println(++idade);
+	}
+}
