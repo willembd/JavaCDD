@@ -1,0 +1,17 @@
+package aula02;
+
+import java.util.Scanner;
+
+public class exercicio05 {
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Digite F-feminino M-masculino: ");
+		String letra = entrada.next();
+		
+		String resp = letra == "F" ? "Feminino" : letra == "M"  ? "Masculino" : "Letra Invalida!!";
+		
+		System.out.println(resp);
+		
+	}
+}
