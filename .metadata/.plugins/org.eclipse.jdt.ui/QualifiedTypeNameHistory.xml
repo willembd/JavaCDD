@@ -7,4 +7,9 @@
     <fullyQualifiedTypeName name="JavaPOO.Pessoa"/>
     <fullyQualifiedTypeName name="metodos.CalcularMetodos"/>
     <fullyQualifiedTypeName name="metodos.Carros"/>
+    <fullyQualifiedTypeName name="membros.DataNascimento"/>
+    <fullyQualifiedTypeName name="javaHeranca.Aluno"/>
+    <fullyQualifiedTypeName name="javaHeranca.Funcionario"/>
+    <fullyQualifiedTypeName name="javaHeranca.Professor"/>
+    <fullyQualifiedTypeName name="polimorfismo.Animal"/>
 </qualifiedTypeNameHistroy>
