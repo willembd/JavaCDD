@@ -13,4 +13,5 @@
     <fullyQualifiedTypeName name="javaHeranca.Professor"/>
     <fullyQualifiedTypeName name="polimorfismo.Animal"/>
     <fullyQualifiedTypeName name="exercicios.ContaBancaria"/>
+    <fullyQualifiedTypeName name="atleta.Atleta"/>
 </qualifiedTypeNameHistroy>
